@@ -16,6 +16,9 @@ This is my repository for data journalism DC Northwestern Medill Fall 2023.
   3. Peter Pan
   4. Up
   5. Emperor's New Groove
+  6. Meet the Robinsons
+  7. A Bug's Life
+  8. Ratatouille
 
 ## This is a table of the class
 
