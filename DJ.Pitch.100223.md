@@ -1,6 +1,9 @@
 Data Journalism
+
 Story Pitch
+
 Emma McNamee
+
 Oct. 2, 2023
 
 ## BACKGROUND: 
