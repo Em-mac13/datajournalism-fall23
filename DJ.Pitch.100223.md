@@ -18,6 +18,7 @@ There are three potentially interesting lines of questions that arise from this:
 ## DATA: 
 Minnesota has an open, searchable database of cases. Using either a name or case number, it’s easy to locate cases and determine the charges involved and the conclusion. I currently have a self-made database from my time as a local crime reporter, including information on every domestic assault case I covered across six counties.  
 Using FOIAs to request case numbers for cases involving domestic assault from local law enforcement offices or the county attorney’s office, this database could be updated and expanded. Once you have the name and number, it’s fairly easy to look at an individual's history. Additionally, the Bureau of Statistics reportedly keeps records of state-by-state recidivism rates across the country, which could provide additional context. 
+In 2018, the Minnesota Department of Corrections published a plan for reducing recidivism, which included information on rehabilitation programs. The following year, a study was released evaluating the effectiveness of standing and pilot programs aimed at decreasing IPV. There is data existing on this topic, and talking to experts like Susan McNeeley, who authored the 2019 study, on where those programs and their effectiveness stand now would be beneficial.   
 
 ## POTENTIAL SOURCES: 
 * Victim Advocate Agencies, Victims
