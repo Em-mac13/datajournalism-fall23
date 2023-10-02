@@ -22,6 +22,6 @@ In 2018, the Minnesota Department of Corrections published a plan for reducing r
 
 ## POTENTIAL SOURCES: 
 * Victim Advocate Agencies, Victims
-* Rehabilitation Advocates and experts, Rehabilitation and Reinvestment Act supporters (who authored the act)
+* Rehabilitation Advocates and experts, Rehabilitation and Reinvestment Act supporters 
 * Judges, Prosecutors, Defense Attorneys
 * Law Enforcement (Prison, jail staff especially)
