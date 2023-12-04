@@ -18,8 +18,9 @@ These data sets require little to no cleaning. I ended up using the numbers in t
 
 
 # Findings
-*Recidivism of Prisoners Released:
-**During a ten-year period, individuals with a prior assault conviction had the highest recidivism rate among violent crimes, outside of individuals convicted of robbery. 
+* Recidivism of Prisoners Released:  
+** During a ten-year period, individuals with a prior assault conviction had the highest recidivism rate among violent crimes, outside of individuals convicted of robbery.
+   
 **Public order crimes had the highest reoffense numbers by a significant increase, averaging around 72%. The other three broad categories had similar recidivism rates, all falling approximately in the mid 50’s, on average. 
 **Comparatively, individuals with prior assault convictions were rearrested at a rate of 92.5%
 Washington State:
