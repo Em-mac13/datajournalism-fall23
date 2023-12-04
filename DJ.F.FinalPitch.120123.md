@@ -1,6 +1,9 @@
 Data Journalism
+
 Final Project Pitch
+
 Emma McNamee
+
 Dec. 01, 2023
 
 # Steps to Analyzing Data
@@ -19,33 +22,30 @@ These data sets require little to no cleaning. I ended up using the numbers in t
 
 # Findings
 * Recidivism of Prisoners Released:
-     *During a ten-year period, individuals with a prior assault conviction had the highest recidivism rate among violent crimes, outside of individuals convicted of robbery.
-   
-**Public order crimes had the highest reoffense numbers by a significant increase, averaging around 72%. The other three broad categories had similar recidivism rates, all falling approximately in the mid 50’s, on average. 
-**Comparatively, individuals with prior assault convictions were rearrested at a rate of 92.5%
-Washington State:
-**Similarly to Minnesota, Washington courts highly favor probation and fines over detention in cases of domestic violence convictions. 
-**Probation in Washington has a 32% compliance rate. Participation in domestic violence treatment has a 38% compliance rate. 
-**When domestic violence offenders were sentenced with conditions, only 4.1% were required to participate in domestic violence treatment. 
-
-https://datawrapper.dwcdn.net/jtJOt/1/ 
-**Domestic violence offenders who participated in treatment were less likely to be reconvicted, though domestic violence-specific treatment still resulted in a higher rate of recidivism (29%) than programming like anger management or victim-oriented treatment.
-***Note: The reoffense rate for individuals participating in domestic violence programming found in the Washington State study is in line with the national reoffense rates found in Development and Validation of a Prediction Tool for Reoffending Risk in Domestic Violence and Correlates of Re-arrest among Felony Domestic Violence Probationers.
-**Combination of jail, probation, and any treatment resulted in the lowest reoffense rates. However, any treatment and jail, and jail and probation had a reoffense rate of 69% and 70%, respectively. Jail-only sentencing resulted in an 83% recidivism rate. 
-
-https://datawrapper.dwcdn.net/a4KmX/2/ 
-**A look at Washington’s IPV-related rehabilitation programming shows a modest number of programs, most appearing to follow a CBT model.  
-*Recidivism Related (various sources):
-**Multiple studies place the likelihood of reoffense for domestic violence offenders in the range of 28-36%. 
-**Taking into account instances of IPV that go unreported, the study Development and Validation of a Prediction Tool for Reoffending Risk in Domestic Violence puts the likelihood of IPV recurring at approximately 50% within the first year after release. 
-**Risk factors for recurrence include housing access, substance dependence and use, sentencing type, and incompletion of sentencing and conditions, among other factors. 
-**Other forms of violent crime, excluding robbery, showed a significantly lower recidivism rate than assault (92%) and domestic assault (approximately 33%) across a ten-year study. 
-*IPV Rehabilitation Related  (various sources):
-** The Duluth Model, rooted in the introduction of anti-patriarchal ideology and community, is considered the leading model of IPV rehabilitation programming. It was developed in Duluth, MN, and is used both nationally and globally.  
-** Multiple studies reported a lack of effectiveness of IPV rehabilitation programming, especially when introduced in a prison environment. This included the Duluth model along with some forms of CBT programs.  
-** A Minnesota analysis of effectiveness in prison-based treatment programming, including the establishment of a Duluth model-style program within prison was found to have no significant reduction in recidivism rates for domestic violence offenders. Some facilities reported an increase in cases of IPV from offenders who had participated in the program.  
-** Nationally, State and Federal programs failed to offer special programming centering IPV rehabilitation and prevention, with domestic violence programs making up less than 3.5% of offered programming
-https://datawrapper.dwcdn.net/8Kts4/1/
+  - During a ten-year period, individuals with a prior assault conviction had the highest recidivism rate among violent crimes, outside of individuals convicted of robbery.
+  - Public order crimes had the highest reoffense numbers by a significant increase, averaging around 72%. The other three broad categories had similar recidivism rates, all falling approximately in the mid 50’s, on average.
+  - Comparatively, individuals with prior assault convictions were rearrested at a rate of 92.5%
+* Washington State:
+  - Similarly to Minnesota, Washington courts highly favor probation and fines over detention in cases of domestic violence convictions.
+  - Probation in Washington has a 32% compliance rate. Participation in domestic violence treatment has a 38% compliance rate.
+  - When domestic violence offenders were sentenced with conditions, only 4.1% were required to participate in domestic violence treatment.
+  - https://datawrapper.dwcdn.net/jtJOt/1/
+  - Domestic violence offenders who participated in treatment were less likely to be reconvicted, though domestic violence-specific treatment still resulted in a higher rate of recidivism (29%) than programming like anger management or victim-oriented treatment.
+  - Note: The reoffense rate for individuals participating in domestic violence programming found in the Washington State study is in line with the national reoffense rates found in Development and Validation of a Prediction Tool for Reoffending Risk in Domestic Violence and Correlates of Re-arrest among Felony Domestic Violence Probationers.
+  - Combination of jail, probation, and any treatment resulted in the lowest reoffense rates. However, any treatment and jail, and jail and probation had a reoffense rate of 69% and 70%, respectively. Jail-only sentencing resulted in an 83% recidivism rate.
+  - https://datawrapper.dwcdn.net/a4KmX/2/
+  - A look at Washington’s IPV-related rehabilitation programming shows a modest number of programs, most appearing to follow a CBT model.
+* Recidivism Related (various sources):
+  - Multiple studies place the likelihood of reoffense for domestic violence offenders in the range of 28-36%.
+  - Taking into account instances of IPV that go unreported, the study Development and Validation of a Prediction Tool for Reoffending Risk in Domestic Violence puts the likelihood of IPV recurring at approximately 50% within the first year after release.
+  - Risk factors for recurrence include housing access, substance dependence and use, sentencing type, and incompletion of sentencing and conditions, among other factors.
+  - Other forms of violent crime, excluding robbery, showed a significantly lower recidivism rate than assault (92%) and domestic assault (approximately 33%) across a ten-year study.
+* IPV Rehabilitation Related  (various sources):
+- The Duluth Model, rooted in the introduction of anti-patriarchal ideology and community, is considered the leading model of IPV rehabilitation programming. It was developed in Duluth, MN, and is used both nationally and globally.
+-  Multiple studies reported a lack of effectiveness of IPV rehabilitation programming, especially when introduced in a prison environment. This included the Duluth model along with some forms of CBT programs.
+- A Minnesota analysis of effectiveness in prison-based treatment programming, including the establishment of a Duluth model-style program within prison was found to have no significant reduction in recidivism rates for domestic violence offenders. Some facilities reported an increase in cases of IPV from offenders who had participated in the program.
+- Nationally, State and Federal programs failed to offer special programming centering IPV rehabilitation and prevention, with domestic violence programs making up less than 3.5% of offered programming
+- https://datawrapper.dwcdn.net/8Kts4/1/
 
 ## Conclusion/Nut Graf 
 
@@ -55,16 +55,27 @@ In the U.S., domestic violence offenders have a significant likelihood of reoffe
 # Data Sources
 
 Development and Validation of a Prediction Tool for Reoffending Risk in Domestic Violence (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10372708/)
+
 Correlates of Re-arrest among Felony Domestic Violence Probationers (https://www.uscourts.gov/sites/default/files/72_3_6_0.pdf)
+
 CRIMINAL CHARGES, RISK ASSESSMENT, AND VIOLENT RECIDIVISM IN CASES OF DOMESTIC ABUSE(http://www.nber.org/papers/w30884)
+
 Assessing the Risk of Domestic Violence Reoffending (I have a PDF that I can provide if needed)
+
 Domestic Violence Sentencing Conditions and Recidivism (https://ofm.wa.gov/sites/default/files/public/legacy/sac/pdf/nchip/DV_sentencing_conditions_recidivism.pdf)
+
 Court‐mandated interventions for individuals convicted of domestic violence: An updated Campbell systematic review (https://ofm.wa.gov/sites/default/files/public/legacy/sac/pdf/nchip/DV_sentencing_conditions_recidivism.pdf)
+
 Domestic Violence and Repeat Victimisation (https://www.popcenter.org/sites/default/files/problems/domestic_violence/PDFs/Hanmer_etal_1999.pdf)
+
 Assessing States’ Intimate Partner Violence Offender Treatment Standards using a Principles of Effective Intervention Framework (https://www.crimrxiv.com/pub/3i1bi8gy/release/1)
+
 Census of State and Federal Adult Correctional Facilities, 2019 (https://bjs.ojp.gov/content/pub/pdf/csfacf19st.pdf)
+
 Recidivism of Prisoners Released in 24 States in 2008: A 10-Year Follow-Up Period (https://bjs.ojp.gov/library/publications/recidivism-prisoners-released-24-states-2008-10-year-follow-period-2008-2018)
+
 Substance abuse and intimate partner violence: treatment considerations (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1564385/)
+
 Effectiveness of a Prison-Based Treatment Program for Male Perpetrators of Intimate Partner Violence: A Quasi-Experimental Study of Criminal Recidivism (https://mn.gov/doc/assets/Effectiveness%20of%20a%20Prison-Based%20Treatment%20Program%20for%20Male%20Perpetrators%20of%20Intimate%20Partner%20Violence_A%20Quasi-Experimental%20Study%20of%20Criminal%20Recidivism_tcm1089-406356.pdf)
 
 # Future Reporting
